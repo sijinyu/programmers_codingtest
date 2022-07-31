@@ -8,3 +8,14 @@
   get_a_missing_number.js
 - 내적
   scalar_product.py
+- K번째수
+  find_number_k.js
+- 모의고사
+  mock_exam.js
+- 체육복
+  gym_suit.js
+
+## LV2
+
+- 카카오 오픈채팅
+  open_chat.js
