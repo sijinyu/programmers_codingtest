@@ -1,8 +1,6 @@
 ## 프로그래머스 코딩테스트 연습
 
-#
-
-## LV1
+## lv1
 
 - 카카오 코딩테스트 크레인 인형뽑기 게임
   claw_machine_game.js
@@ -21,7 +19,12 @@
 - 두개 뽑아서 더하기
   twoSum.py
 
-## LV2
+## lv2
 
 - 카카오 오픈채팅
   open_chat.js
+
+## etc
+
+- 쿠키헤더 뽑아내기
+  cookie_find.js
